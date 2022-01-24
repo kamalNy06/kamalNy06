@@ -3,7 +3,7 @@
 <a href="#">
   <img align="left" alt="Darshan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/kamal-nayan-yadav-1561ab211">
+<a href="https://linkedin.com/in/kamal-nayan-yadav-1561ab211" target = _blank>
   <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/kamalNy06">
